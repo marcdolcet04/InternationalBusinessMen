@@ -1,0 +1,5 @@
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Domain\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Domain\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Domain\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Domain\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Domain\obj\Debug\net8.0\staticwebassets.build.json

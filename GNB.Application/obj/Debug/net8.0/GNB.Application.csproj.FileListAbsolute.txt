@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Application\bin\Debug\net8.0\GNB.Application.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Application\bin\Debug\net8.0\GNB.Application.dll
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Application\bin\Debug\net8.0\GNB.Application.pdb
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Application\bin\Debug\net8.0\GNB.Domain.dll
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Application\bin\Debug\net8.0\GNB.Domain.pdb
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Application\obj\Debug\net8.0\GNB.Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Application\obj\Debug\net8.0\GNB.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Application\obj\Debug\net8.0\GNB.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Application\obj\Debug\net8.0\GNB.Application.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Application\obj\Debug\net8.0\GNB.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Application\obj\Debug\net8.0\GNB.Appl.AC477576.Up2Date
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Application\obj\Debug\net8.0\GNB.Application.dll
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Application\obj\Debug\net8.0\refint\GNB.Application.dll
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Application\obj\Debug\net8.0\GNB.Application.pdb
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Application\obj\Debug\net8.0\ref\GNB.Application.dll

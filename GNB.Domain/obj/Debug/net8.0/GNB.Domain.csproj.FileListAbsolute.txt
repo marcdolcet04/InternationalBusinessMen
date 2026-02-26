@@ -1,0 +1,11 @@
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Domain\bin\Debug\net8.0\GNB.Domain.deps.json
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Domain\bin\Debug\net8.0\GNB.Domain.dll
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Domain\bin\Debug\net8.0\GNB.Domain.pdb
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Domain\obj\Debug\net8.0\GNB.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Domain\obj\Debug\net8.0\GNB.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Domain\obj\Debug\net8.0\GNB.Domain.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Domain\obj\Debug\net8.0\GNB.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Domain\obj\Debug\net8.0\GNB.Domain.dll
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Domain\obj\Debug\net8.0\refint\GNB.Domain.dll
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Domain\obj\Debug\net8.0\GNB.Domain.pdb
+C:\Users\Usuario\OneDrive\Escritorio\FEINA\PRUEBA_TECNICA\GNB.Domain\obj\Debug\net8.0\ref\GNB.Domain.dll
